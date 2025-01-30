@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sarthaksharma1408
-- 👀 I’m interested in learning to code and music production.
-- 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on every thing that comes in my way.
 - 📫 How to reach me "sarthaksharma1146@gmail.com"
 
